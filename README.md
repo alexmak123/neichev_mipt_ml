@@ -1,11 +1,11 @@
 # neichev_mipt_ml
-7 семестр:
+7 semester:
 
-В первой части курса нас познакомили с классическими методами машинного обучения и были выполнены практические работы по темам: KNN, Линейные Модели, PCA, SVM, Random Forest, Gradient Boosting 
+In the first part of the course, we were introduced to classical methods of machine learning, and practical assignments were completed on topics such as KNN, Linear Models, PCA, SVM, Random Forest, and Gradient Boosting.
 
-Во второй части курса нас познакомили с DL моделями и были выполнены практические работы по темам: forward NN модели с различными функциями активации и техниками регуляризации, RNN, LSTM, CNN
+In the second part of the course, we were introduced to DL models, and practical assignments were completed on topics such as forward NN models with various activation functions and regularization techniques, RNN, LSTM, and CNN.
 
-Итоговая оценка (практические работы + экзамен) : отл(10)
+Final grade (practical assignments + exam): excellent (10).
 
 
-8 семестр:
+8 semester:
