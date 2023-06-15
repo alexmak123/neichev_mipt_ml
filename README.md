@@ -16,4 +16,4 @@ In the first part of the course, we were introduced to classical methods of NLP 
 In the second part of the course, we were introduced to Reinforcement Learning and Computer Vision and practical assignments were completed on topics such as Crossentropy method, Value function, Q-function, DQN, Policy gradient
 
 
-Final grade (practical assignments + exam): 
+Final grade (practical assignments + exam): excellent (10).
