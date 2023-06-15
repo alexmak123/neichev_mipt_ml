@@ -1,5 +1,5 @@
 # neichev_mipt_ml
-7 semester:
+### 7 semester:
 
 In the first part of the course, we were introduced to classical methods of machine learning and practical assignments were completed on topics such as KNN, Linear Models, PCA, SVM, Random Forest and Gradient Boosting.
 
@@ -9,7 +9,7 @@ Final grade (practical assignments + exam): excellent (10).
 
 
 
-8 semester:
+### 8 semester:
 
 In the first part of the course, we were introduced to classical methods of NLP and practical assignments were completed on topics such as Word2vec, TF-IDF, Seq2Seq models, NMT, Attention and Self-Attention, Transformers, LLM
 
